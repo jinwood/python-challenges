@@ -32,7 +32,7 @@ def test_add_negative_numebrs():
 
 def test_add_mixed_numbers():
     assert sum(-1, 1) == 0
-    assert sum(10, 5) == 5
+    assert sum(10, 5) == 15
 
 
 def test_add_zero():
