@@ -27,3 +27,9 @@ Each challenge is organized in its own directory with the following structure:
 1. Create a new directory under the appropriate difficulty level
 2. Add `solution.py` with the function stub
 3. Add `test_*.py` with challenge description and tests
+
+## Todo:
+
+- Add a watch process
+- Add helpful errors when tests fail
+- Add a lot more challenges
